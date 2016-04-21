@@ -22,7 +22,7 @@ var CONFIG = {
         "velocity": -420,
         "frame": 0,
         "rotate": -40,
-        "norotate": true
+        "norotate": false
       },
       "end": {
         "offset": 100,
@@ -30,7 +30,7 @@ var CONFIG = {
         "scale": 1
       },
       "animation": {
-        "rate": 0 
+        "rate": 0
       }
   },
   "sign": {
@@ -65,7 +65,7 @@ var CONFIG = {
     "key": "skilstak-flappy-highscore",
     "style": {
       "font": "25px sans-serif", 
-      "fill": "#657b83",
+      "fill": "#FFFF00",
       "align": "center"
     } 
   },
@@ -74,7 +74,7 @@ var CONFIG = {
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 
-      "fill": "#b58900",
+      "fill": "#F5F5F5",
       "align": "center"
     }, 
     "score": {
